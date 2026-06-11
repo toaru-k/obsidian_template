@@ -1,7 +1,6 @@
 ---
 
 ---
-
 ## 管理方針
 ### status
 todo / doing / done
