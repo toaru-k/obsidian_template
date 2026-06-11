@@ -1,19 +1,17 @@
 ---
-title:
-  "{ value }":
+title: {{value}}
 summary:
 heart: # 感情的な面白さのスコア
 head: # 知的な面白さのスコア
-type:
+type: # book, movie, drama, music etc...
 creator:
  - 
-tags:
+tags: # 作品の特徴やジャンルを記入
  - 
  - media-note
 cover: 📕Media Notes/{{value}}/cover.jpg # 作品の表紙へのパス
-status: doing
-start_date:
-  "{ date }":
+status: doing # 現在の進捗状況を記入（todo, doing, done）
+start_date: {{date}}
 finish_date:
 link:
 ---

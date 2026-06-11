@@ -28,9 +28,6 @@ todo / doing / done
 ```base
 formulas:
   total score: if ( head, head + heart + " = " + heart + " + " + head, "-" )
-properties:
-  formula.total score:
-    displayName: score
 views:
   - type: cards
     name: ギャラリー
